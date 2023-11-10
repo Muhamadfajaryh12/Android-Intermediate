@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">StoryApp</string>
+    <string name="register">Register</string>
+    <string name="askRegister">Sudah Punya Akun?</string>
+    <string name="submit">Submit</string>
+    <string name="login">Login</string>
+    <string name="splash">Story App</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="description">Masukkan Deskripsi</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="text_lat">Lat : </string>
+    <string name="text_lon">Lon : </string>
+    <string name="retry">Coba lagi</string>
+
+</resources>
